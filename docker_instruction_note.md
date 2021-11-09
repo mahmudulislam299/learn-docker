@@ -1,7 +1,7 @@
 # How to create Docker image
 Open powershell in VScode and run the following command to access the shell to run script
 ```
-docker build -t hello-docker:1.0.0
+docker build -t hello-docker:1.0.0 .
 ```
 - **here `hello-docker` is image Name and `1.0.0` is image version/ Tag**
 
